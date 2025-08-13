@@ -12,7 +12,7 @@ Add to your `~/.tmux.conf`:
 ```tmux
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'joshmedeski/tmux-nerd-font-window-name'  # icons & names (optional but recommended)
-set -g @plugin 'yourname/tmux-gruvbox-status'
+set -g @plugin 'rktmeister/gruvbox-tmux'
 
 # recommended
 set -g automatic-rename on
