@@ -6,12 +6,7 @@ A clean, dark Tmux theme using the retro groove [Gruvbox color scheme](https://g
 The perfect companion for gruvbox-themed editors and terminals.
 
 This theme is adapted from the excellent [Tokyo Night Tmux](https://github.com/janoamaral/tokyo-night-tmux) by janoamaral, converted to use the Gruvbox color palette while maintaining all the original functionality and features.
-The old version (deprecated) is still available in the `legacy` branch.
 
-
-## About this theme
-
-This is a very opinionated project, as I am a Tech Lead, this theme is very developer-focused.
 
 ## Requirements
 
