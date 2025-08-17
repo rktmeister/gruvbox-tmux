@@ -8,7 +8,6 @@ The perfect companion for gruvbox-themed editors and terminals.
 This theme is adapted from the excellent [Tokyo Night Tmux](https://github.com/janoamaral/tokyo-night-tmux) by janoamaral, converted to use the Gruvbox color palette while maintaining all the original functionality and features.
 The old version (deprecated) is still available in the `legacy` branch.
 
-<a href="https://www.buymeacoffee.com/jano" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## About this theme
 
@@ -209,33 +208,6 @@ so it's independent of terminal theme.
   - indicators order
   - disable indicators
 
-### Demo
-
-https://github.com/janoamaral/tokyo-night-tmux/assets/10008708/59ecd814-bc2b-47f2-82b1-ffdbfbc54fbf
-
-### Snapshots
-
-- Terminal: Kitty with [Tokyo Night Kitty Theme](https://github.com/davidmathers/tokyo-night-kitty-theme)
-- Font: [SFMono Nerd Font Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)
-
-![Snap 5](snaps/logico.png)
-
-Legacy tokyo-night
-
-![Snap 4](snaps/l01.png)
-
-## Contributing
-
-> [!IMPORTANT]  
-> Please read the [contribution guide first](CONTRIBUTING.md).
-
-Feel free to open an issue or pull request with any suggestions or improvements.
-
-Ensure your editor follows the style guide provided by `.editorconfig`.
-[pre-commit] hooks are also provided to ensure code consistency, and will be
-run against any raised PRs.
-
-[pre-commit]: https://pre-commit.com/
 [Noto Sans]: https://fonts.google.com/noto/specimen/Noto+Sans
 [Nerd Fonts]: https://www.nerdfonts.com/
 [coreutils]: https://www.gnu.org/software/coreutils/
