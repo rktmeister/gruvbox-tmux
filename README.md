@@ -1,7 +1,5 @@
 # Gruvbox Tmux
 
-![example workflow](https://github.com/rktmeister/gruvbox-tmux/actions/workflows/pre-commit.yml/badge.svg?branch=master)
-
 A clean, dark Tmux theme using the retro groove [Gruvbox color scheme](https://github.com/morhetz/gruvbox).
 The perfect companion for gruvbox-themed editors and terminals.
 
