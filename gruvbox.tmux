@@ -77,5 +77,5 @@ tmux set -g window-status-current-format "$RESET#[fg=${THEME[bgreen]},bg=${THEME
 tmux set -g window-status-format "$RESET#[fg=${THEME[bwhite]}] #{?#{==:#{pane_current_command},ssh},󰣀 ,$terminal_icon $window_space}${RESET}#[fg=${THEME[bwhite]}]$window_number#W#[nobold]#{?window_zoomed_flag, $zoom_number, $custom_pane}#[fg=${THEME[yellow]}]#{?window_last_flag,󰁯  , }"
 
 #+--- Bars RIGHT ---+
-tmux set -g status-right "$battery_status$current_path$cmus_status$netspeed$git_status$wb_git_status$date_and_time"
+tmux set -g status-right "$battery_status$cmus_status$netspeed$git_status$wb_git_status$date_and_time"
 tmux set -g window-status-separator ""
