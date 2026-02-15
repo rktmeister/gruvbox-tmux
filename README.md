@@ -100,6 +100,15 @@ set -g @gruvbox-tmux_active_terminal_icon 
 set -g @gruvbox-tmux_window_tidy_icons 0
 ```
 
+### Prompt Cursor Visibility
+
+If your rename prompt cursor is hard to see, set an explicit cursor color/style:
+
+```bash
+set -g prompt-cursor-colour '#fabd2f'
+set -g prompt-cursor-style block
+```
+
 ### Widgets
 
 For widgets add following lines in you `.tmux.conf`
